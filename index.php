@@ -1,6 +1,6 @@
 ﻿<html lang="pt-br"> 
   <head>
-  	<!--Calcule a área de um quadrado,retangulo e uma circuferência! -->
+  <!--Calcule a área de um quadrado,retangulo e uma circuferência! -->
   </head>
   <body>
     <h1> CALCULO  </h1>
